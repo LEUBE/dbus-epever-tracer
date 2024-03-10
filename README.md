@@ -1,6 +1,11 @@
+### THIS IS A FORK INCLUDING A FEW BUGFIXES AND CUSTOMIZATIONS.
+
+
+
+
 ### THIS IS A WORK IN PROGRESS -- YMMV, NO WARRANTY EXPRESSED OR IMPLIED. YOU CAN ENDANGER YOURSELF AND OTHERS.
 
-# Epver Venus Driver
+# Epever Venus Driver
 This project integrates the Epver Solarcharger with Victron Venus OS. The software runs on the Venus OS device as a Venus driver and uses the Venus dbus to read/write data for use with the Venus device.
 
 Tested with RPi 3B - v2.91 Build 20220925213117
